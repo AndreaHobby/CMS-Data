@@ -9,7 +9,11 @@ This project uses toe and foot amputation data from CMS.
 
 ## The Process
 
-### Step 1 
+### Step 1 Data Wrangling 
+
+### Step 2 Labeling 
+
+### Step 3 Modeling 
 
 ## Results 
 
