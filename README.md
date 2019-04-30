@@ -7,7 +7,7 @@ This project uses toe and foot amputation data from CMS.
 ## The Resources/Tools
 ![hcup](img/hcup.jpg)
 
-SAS 9.4
+![sas](img/sas.png)
 
 ## The Process
 
@@ -20,7 +20,7 @@ Choose Year
 Specific Diagnosis/Precoedre - Yes
 Proocedure Code Selection - Code 10
 
-Once the individual datasets were downloaded, I checked the variable types...
+Once the individual datasets were downloaded, I checked the variable types in SAS 9.4
 Then, I created a macro to merge all the datasets together. Rename variabls if needed for the initial merge. 
 
 ### Step 2 Data Cleaning 
