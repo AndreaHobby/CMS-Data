@@ -2,7 +2,7 @@
 
 ## Project Overview 
 
-This project uses toe and foot amputation data from CMS. 
+This project uses toe and foot amputation data from CMS's inpatient and outpatient data.  
 
 ## The Resources/Tools
 ![hcup](img/hcup.jpg)        ![sas](img/sas.png)
