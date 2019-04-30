@@ -5,9 +5,7 @@
 This project uses toe and foot amputation data from CMS. 
 
 ## The Resources/Tools
-![hcup](img/hcup.jpg)
-
-![sas](img/sas.png)
+![hcup](img/hcup.jpg)        ![sas](img/sas.png)
 
 ## The Process
 
