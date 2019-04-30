@@ -27,7 +27,7 @@ Then, I created a macro to merge all the datasets together. Rename variables if 
 I dropped any unimportant variables. 
 
 Learned my data. Mean/Medium/Mode and n for variables of interest 
-Hisotgrams.... 
+Histograms.... 
 
 
 ### Step 3 Modeling 
