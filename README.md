@@ -4,8 +4,10 @@
 
 This project uses toe and foot amputation data from CMS. 
 
-## The Resources
+## The Resources/Tools
 ![hcup](img/hcup.jpg)
+
+SAS 9.4
 
 ## The Process
 
