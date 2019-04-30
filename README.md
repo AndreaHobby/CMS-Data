@@ -1,4 +1,4 @@
-# CMS Data
+# CMS Toe and Foot Amputation Project
 
 ## Project Overview 
 
@@ -19,7 +19,7 @@ Specific Diagnosis/Precoedre - Yes
 Proocedure Code Selection - Code 10
 
 Once the individual datasets were downloaded, I checked the variable types in **SAS 9.4**.
-Then, I created a macro to merge all the datasets together. Rename variabls if needed for the initial merge. 
+Then, I created a macro to merge all the datasets together. Rename variables if needed for the initial merge. 
 
 ### Step 2 Data Cleaning 
  I checked for invalid character values and missing data. Then, I looked for out of range data. 
