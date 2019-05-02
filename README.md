@@ -20,10 +20,10 @@ Then, I created a macro to merge all the datasets together. Rename variables if 
 
 ### Step 2 Data Cleaning 
  I checked for invalid character values and missing data. Then, I looked for out of range data. 
- I checked for invalid numeric values and missing data. Check to see if any data types need to be converted. Last, I checked the range for variables. Look for duplicates and values that are repeating. Check that dates are correctly formatted. Relabel variables as needed. 
-I dropped any unimportant variables. 
+ I checked for invalid numeric values and missing data. I checked to see if any data types need to be converted. Last, I checked the range for variables. I looked for duplicates and values that are repeating. I checked that dates are correctly formatted. Relabel variables as needed. I dropped any unimportant variables. 
 
-Learned my data. Mean/Medium/Mode and n for variables of interest 
+####Learned my data. 
+Mean/Medium/Mode and n for variables of interest 
 Histograms.... 
 
 
