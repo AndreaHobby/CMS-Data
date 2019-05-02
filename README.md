@@ -5,7 +5,7 @@
 This project uses toe and foot amputation data from CMS's inpatient and outpatient data.
 The goal of this project is to understand the trends in utilization of inpatient and outpatient toe and foot amputation services. The chart below shows general trends in amputation. I wanted to extend this previous chart until 2016? and make predictions for the next 10 years for toe and foot amputations. 
 
-![trends](img/trends.png)
+![trends](img/trends.PNG)
 
 This started out as a project for a job interview but I expanded on it to display some of my experience with SAS. 
 
