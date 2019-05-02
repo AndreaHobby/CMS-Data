@@ -33,6 +33,8 @@ Histograms....
 
 ## Results 
 
+These results could help guide planning for toe and foot amputation services.
+
 ### References 
 
 https://hcupnet.ahrq.gov/#setup
