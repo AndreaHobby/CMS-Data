@@ -3,7 +3,7 @@
 ## Project Overview 
 
 This project uses toe and foot amputation data from CMS's inpatient and outpatient data.
-The goal of this project is to understand the trends in utilization of inpatient and outpatient toe and foot amputation services. The chart below shows general trends in amputation. I wanted to extend this previous chart until 2016? and make predictions for the next 10 years for toe and foot amputations. 
+The goal of this project is to understand the trends in utilization of inpatient and outpatient toe and foot amputation services. The chart below shows general trends in amputation. I wanted to extend this previous chart for only the toe and foot amputations until 2016? and make predictions for the next 10 years for toe and foot amputations. I want to know if there was an change in the rate post 2011 as well. 
 
 ![trends](img/trends.PNG)
 
