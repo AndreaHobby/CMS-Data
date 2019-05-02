@@ -11,12 +11,9 @@ This project uses toe and foot amputation data from CMS's inpatient and outpatie
 
 ### Step 1 Data Wrangling 
 
-To begin, indiviual datasets were downloaded from the hcupnet website. 
--Create New Analysis Table
--Inpatient/Descriptive Stats
-Choose Year
-Specific Diagnosis/Precoedre - Yes
-Proocedure Code Selection - Code 10
+To begin, individual datasets were downloaded from the hcupnet website. 
+This is what I selected. -Create New Analysis Table >> Inpatient/Descriptive Stats >> Choose Year
+>> Specific Diagnosis/Precoedre - Yes >> Proocedure Code Selection - Code 10
 
 Once the individual datasets were downloaded, I checked the variable types in **SAS 9.4**.
 Then, I created a macro to merge all the datasets together. Rename variables if needed for the initial merge. 
