@@ -4,6 +4,9 @@
 
 This project uses toe and foot amputation data from CMS's inpatient and outpatient data.
 The goal of this project is to understand the trends in utilization of inpatient and outpatient toe and foot amputation services. 
+
+![trends](img/trends.jpg)
+
 This started out as a project for a job interview but I expanded on it to display some of my experience with SAS. 
 
 ## The Resources/Tools
@@ -33,10 +36,11 @@ Histograms....
 
 ## Results 
 
-### Additional Information 
+### References 
 
 https://hcupnet.ahrq.gov/#setup
 
+Goodney PP, Tarulli M, Faerber AE, Schanzer A, Zwolak RM. Fifteen-Year Trends in Lower Limb Amputation, Revascularization, and Preventive Measures Among Medicare Patients. JAMA Surg. 2015;150(1):84–86. doi:10.1001/jamasurg.2014.1007
 
 
 
