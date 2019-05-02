@@ -7,8 +7,6 @@ The goal of this project is to understand the trends in utilization of inpatient
 
 ![trends](img/trends.PNG)
 
-This started out as a project for a job interview but I expanded on it to display some of my experience with SAS. 
-
 ## The Resources/Tools
 ![hcup](img/hcup.jpg)        ![sas](img/sas.png)
 
