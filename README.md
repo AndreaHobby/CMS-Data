@@ -2,7 +2,9 @@
 
 ## Project Overview 
 
-This project uses toe and foot amputation data from CMS's inpatient and outpatient data.  
+This project uses toe and foot amputation data from CMS's inpatient and outpatient data.
+The goal of this project is to understand the trends in utilization of inpatient and outpatient toe and foot amputation services. 
+This started out as a project for a job interview but I expanded on it to display some of my experience with SAS. 
 
 ## The Resources/Tools
 ![hcup](img/hcup.jpg)        ![sas](img/sas.png)
@@ -22,7 +24,7 @@ Then, I created a macro to merge all the datasets together. Rename variables if 
  I checked for invalid character values and missing data. Then, I looked for out of range data. 
  I checked for invalid numeric values and missing data. I checked to see if any data types need to be converted. Last, I checked the range for variables. I looked for duplicates and values that are repeating. I checked that dates are correctly formatted. Relabel variables as needed. I dropped any unimportant variables. 
 
-####Learned my data. 
+#### Learned my data. 
 Mean/Medium/Mode and n for variables of interest 
 Histograms.... 
 
