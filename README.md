@@ -33,7 +33,9 @@ Histograms....
 
 ## Results 
 
-These results could help guide planning for toe and foot amputation services.
+
+The limitatations of this analysis is that it only covers a portion of the population with Medicare. 
+These results could help guide planning for toe and foot amputation services. Further research should be done to understand the differences between different racial and ethnic groups. 
 
 ### References 
 
