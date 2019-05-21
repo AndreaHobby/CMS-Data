@@ -25,8 +25,11 @@ Then, I created a macro to merge all the datasets together. Rename variables if 
  I checked for invalid numeric values and missing data. I checked to see if any data types need to be converted. Last, I checked the range for variables. I looked for duplicates and values that are repeating. I checked that dates are correctly formatted. Relabel variables as needed. I dropped any unimportant variables. 
 
 #### Learned my data. 
+Since this is healthcare utilization data, I wanted to learn the spread of the variables of interest that will be used in the model. 
+I have created histogram that .... 
+
+Also, I ran descriptive statistics for my variables of interest.
 Mean/Medium/Mode and n for variables of interest 
-Histograms.... 
 
 
 ### Step 3 Modeling 
