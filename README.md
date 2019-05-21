@@ -46,5 +46,5 @@ https://hcupnet.ahrq.gov/#setup
 Goodney PP, Tarulli M, Faerber AE, Schanzer A, Zwolak RM. Fifteen-Year Trends in Lower Limb Amputation, Revascularization, and Preventive Measures Among Medicare Patients. JAMA Surg. 2015;150(1):84–86. doi:10.1001/jamasurg.2014.1007
 
 
-
+Diehr, P., Yanez, D., Ash, A., Hornbrook, M. and Lin, D.Y., 1999. Methods for analyzing health care utilization and costs. Annual review of public health, 20(1), pp.125-144.
 
