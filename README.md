@@ -12,7 +12,7 @@ The goal of this project is to understand the trends in utilization of inpatient
 
 ## The Process
 
-### Step 1 Data Wrangling 
+### Step 1 Obtaining the data
 
 To begin, individual datasets were downloaded from the hcupnet website. 
 This is what I selected. Create New Analysis Table >> Inpatient/Descriptive Stats >> Choose Year >> Specific Diagnosis/Precoedre-Yes >> Procedure Code Selection - Code 10
