@@ -83,6 +83,16 @@ quit;
 
 %tfamputation (out=inpatient8, in=inpat.inpatient)  /* Calling Macro and assiging it values*/
 
+/*Checking Data Spread*/
+PROC SGPLOT DATA = outpat.outpatient;
+ HISTOGRAM Time;
+ TITLE "Checking Spread of the Data";
+RUN;
+
+PROC SGPLOT DATA = inpat.inpatient;
+ HISTOGRAM Time;
+ TITLE "Checking Spread of the Data";
+RUN;
 
 /* CPT Codes. Retrieved February 5, 2019, from http://bioportal.bioontology.org/ontologies/CPT/?p=classes&conceptid=http://purl.bioontology.org/ontology/CPT/1005312
 HCPCS Codes. Retrieved February 5, 2019, 
