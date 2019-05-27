@@ -15,7 +15,7 @@ The goal of this project is to understand the trends in utilization of inpatient
 ### Step 1 Obtaining the data
 
 To begin, individual datasets were downloaded from the hcupnet website. 
-This is what I selected. Create New Analysis Table >> Inpatient/Descriptive Stats >> Choose Year >> Specific Diagnosis/Precoedre-Yes >> Procedure Code Selection - Code 10
+This is what I selected. Create New Analysis Table >> Inpatient/Descriptive Stats >> Choose Year >> Specific Diagnosis/Procedure-Yes >> Procedure Code Selection - Code 10
 
 Once the individual datasets were downloaded, I checked the variable types in **SAS 9.4**.
 Then, I created a macro to merge all the datasets together. Rename variables if needed for the initial merge. 
